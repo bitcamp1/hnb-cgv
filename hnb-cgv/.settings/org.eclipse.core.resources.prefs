@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/views/admin/mg_member.jsp=UTF-8
+encoding//WebContent/views/main/contentIframe.jsp=UTF-8
+encoding//src/net/cho/web/controller/GuestController.java=UTF-8
+encoding//src/net/cho/web/dao/GuestDAO.java=UTF-8
